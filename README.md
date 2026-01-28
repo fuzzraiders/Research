@@ -1,4 +1,8 @@
-# 🔬 FuzzRaiders — Cybersecurity Research Repository
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=🔬 FuzzRaiders — Cybersecurity Research Repository" alt="FuzzRaiders — Write-Ups Repository">
+</p>
+
+![image](FuzzRaiders/FuzzRaiders-Cover.png)
 
 Welcome to the **FuzzRaiders Research** repository. This space hosts **public, safe, and ethically responsible** cybersecurity research produced by the FuzzRaiders team.
 
@@ -15,16 +19,66 @@ Our research spans vulnerability analysis, exploit behavior studies, protocol in
 ## 📂 Repository Structure
 
 ```
-/research
-├── web/
-├── cloud/
-├── malware/
-├── reverse-engineering/
-├── protocol-analysis/
-├── cryptography/
-├── exploit-case-studies/
-├── threat-landscape/
-└── misc/
+RESEARCH/
+├── README.md
+
+├── Exploit-Development/
+│   ├── Windows/
+│   │   ├── BOF/
+│   │   ├── SEH/
+│   │   ├── ASLR-NX-Bypass/
+│   │   └── PoCs/
+│   ├── Linux/
+│   │   ├── Stack/
+│   │   ├── Heap/
+│   │   └── PoCs/
+│   └── README.md
+
+├── Web-Security/
+│   ├── Vulnerability-Research/
+│   ├── Custom-Tools/
+│   ├── Bypass-Techniques/
+│   └── README.md
+
+├── Cloud-Security/
+│   ├── AWS/
+│   │   ├── IAM-Abuse/
+│   │   ├── Misconfig-Research/
+│   │   └── Detection-Gaps/
+│   ├── Azure/
+│   └── README.md
+
+├── Mobile-Security/
+│   ├── Android/
+│   │   ├── Reversing/
+│   │   ├── Runtime-Hooking/
+│   │   └── API-Abuse/
+│   ├── iOS/
+│   └── README.md
+
+├── Reverse-Engineering/
+│   ├── Malware-Analysis/
+│   ├── Binary-Internals/
+│   ├── Packers-Obfuscation/
+│   └── README.md
+
+├── Vulnerability-Research/
+│   ├── CVE-Research/
+│   ├── Fuzzing/
+│   ├── Triage/
+│   └── README.md
+
+├── Internal-Penetration-Testing/
+│   ├── Methodology/
+│   ├── Tooling/
+│   ├── AD-Attack-Chains/
+│   └── README.md
+
+└── Tooling/
+    ├── Recon/
+    ├── Exploitation/
+    └── README.md
+
 
 ```
 
@@ -62,3 +116,19 @@ All research in this repository is:
 
 - For educational & defensive use only
   Please open a PR after reviewing repo guidelines.
+
+## 🤝 Contributions
+
+Contributions are welcome from researchers who align with the mission and standards of FuzzRaiders.
+
+Before contributing:
+
+- Ensure all content is sanitized and non-destructive
+- Follow repository structure and documentation style
+- Respect ethical and legal boundaries
+
+Please open a pull request after reviewing the contribution guidelines.
+
+---
+
+**FuzzRaiders** — Research-driven. Methodology-first. Responsible by design.
