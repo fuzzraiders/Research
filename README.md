@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=🔬 FuzzRaiders — Cybersecurity Research Repository" alt="FuzzRaiders — Cybersecurity Research Repository">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=FuzzRaiders — Cybersecurity Research Repository" alt="FuzzRaiders — Cybersecurity Research Repository">
 </p>
 
 ![image](FuzzRaiders/FuzzRaiders-Cover.png)
