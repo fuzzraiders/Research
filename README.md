@@ -74,11 +74,6 @@ RESEARCH/
 │   ├── AD-Attack-Chains/
 │   └── README.md
 
-└── Tooling/
-    ├── Recon/
-    ├── Exploitation/
-    └── README.md
-
 
 ```
 
