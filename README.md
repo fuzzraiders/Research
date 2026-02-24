@@ -1,3 +1,5 @@
+![image](Assets/badges/FuzzRaiders-badge.svg)
+
 # 🔬 FuzzRaiders — Cybersecurity Research Repository
 
 Welcome to the **FuzzRaiders Research** repository. This space hosts **public, safe, and ethically responsible** cybersecurity research produced by the FuzzRaiders team.
