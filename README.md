@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=950&lines=FuzzRaiders+%E2%80%94+Research+Repository;Offensive+Security+Research+%26+Analysis" alt="FuzzRaiders — Research Repository">
 </p>
+
 ---
+
 # 📝 About
 
 Welcome to the **FuzzRaiders Research** repository. This space hosts **public, safe, and ethically responsible** cybersecurity research produced by the FuzzRaiders team.
