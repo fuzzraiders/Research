@@ -23,16 +23,17 @@ Our research spans vulnerability analysis, exploit behavior studies, protocol in
 ## 📂 Repository Structure
 
 ```
-/research
-├── web/
-├── cloud/
-├── malware/
-├── reverse-engineering/
-├── protocol-analysis/
-├── cryptography/
-├── exploit-case-studies/
-├── threat-landscape/
-└── misc/
+Research/
+│
+├── Exploit-Development/
+├── Internal-Pentest/
+├── Malware-Analysis/
+├── Reverse-Engineering/
+├── Threat-Research/
+├── Cloud-Research/
+├── Web-Research/
+├── Mobile-Research/
+└── Protocol-Analysis/
 
 ```
 
